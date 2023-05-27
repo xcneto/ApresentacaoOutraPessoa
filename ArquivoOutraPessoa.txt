@@ -1,2 +1,3 @@
 Esse é o arquivo de Fulano, ele tem 30 anos e está aprendendo a programar!
 Ela gosta de estudar, jogar bola e ouvir música!
+E por fim essa é uma última atualização remota para praticar o pull.
